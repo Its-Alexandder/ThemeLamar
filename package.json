@@ -1,0 +1,22 @@
+{
+  "name": "lamar",
+  "displayName": "Lamar Theeme",
+  "publisher": "Tiburón",
+  "description": "It´s a theme as dark as the depths of the ocean.",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.91.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Lamar Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/lamar-color-theme.json"
+      }
+    ]
+  }
+}
