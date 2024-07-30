@@ -3,7 +3,7 @@
   "displayName": "Lamar Theme",
   "publisher": "alexanderalfonso",
   "description": "It´s a theme as dark as the depths of the ocean.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.91.0"
   },
