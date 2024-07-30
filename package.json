@@ -7,8 +7,12 @@
   "engines": {
     "vscode": "^1.91.0"
   },
-  "categories": [
-    "Themes"
+  "keywords": [
+    "Themes",
+    "Dark theme",
+    "Color Theme",
+    "Ocean",
+    "Shark"
   ],
   "contributes": {
     "themes": [
@@ -18,5 +22,12 @@
         "path": "./themes/lamar-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Its-Alexandder/ThemeLamar"
+  },
+  "scripts": {
+    "vscode:prepublish": "vsce package"
   }
 }
